@@ -1,0 +1,12 @@
+{
+   "Author": "Mohamed",
+   "Comment": "",
+   "Last Problem Type": "E-Static Solver",
+   "Last Solver Type": "LF EStatic",
+   "Last Solver Type Abb": "es",
+   "Mesh Cells": "13,767",
+   "Mesh Type": "Tetrahedral",
+   "ProjectVersion": "'# EMS Version: Version 2025.4 - Apr 11 2025 - ACIS 34.0.1 - Learning Edition",
+   "Results": "Electrostatic Solver",
+   "Version": "3"
+}

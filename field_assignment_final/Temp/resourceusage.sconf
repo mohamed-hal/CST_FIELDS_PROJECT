@@ -1,0 +1,15 @@
+FeatureKeywords:string:block:type:saved:EMSSCHEM, mesh:workflow:nru, mesh:workflow:srf2vol, mesh:workflow:boolean, mesh:workflow:boolean:2025plus, mesh:workflow:cad2srf, mesh:workflow:cadsurf, acceleration:cpu:8, acceleration:cpudevices:1, background:normal, boundary:magnetic:xmin, boundary:magnetic:ymin, boundary:open:ConvPML, boundary:open:xmax, boundary:open:ymax, boundary:open:zmax, boundary:open:zmin, boundary:symmetry plane:magnetic:xmin, boundary:symmetry plane:magnetic:ymin, mesh:tet, mesh:tet:adaptive, solver:lf:e-static, source:charge:surface, source:potential:fixed, units:Capacitance:F, units:Conductance:S, units:Current:A, units:Frequency:Hz, units:Inductance:H, units:Length:mm, units:Resistance:Ohm, units:Temperature:degC, units:Time:s, units:Voltage:V, la:direct, la:precond:pdss7, DELETERESULTS:00P0, DELETERESULTS:0SP0, DELETERESULTS:M000, mesh::background::boolean, meshloading:problem_class_only, modeler:hidfile:unique_ids, visualization:field_plot:default_engine, plotting:1d:export_bitmap, plotting:1d:cartesian, TABLE:UNIT_CHECK:WRITE, postprocess:evaluate field, postprocess:evaluate field:curve, boundary:magnetic:zmin, boundary:open:ymin, boundary:symmetry plane:magnetic:zmin, modeler:load:fastloading, modeler:history:header_not_parsed, meshline:hex:check_after_loading:default
+LastWorkflowState:string:tetmesh:success
+solver_pp/InitialFreePhysicalInMB:int:1938
+solver_pp/MaxResidentSizeInMB:int:40
+solver_pp/MaxResidentSizeMiB:int:19
+solver_pp/MinFreePhysicalInMB:int:1918
+solver_se_tet/InitialFreePhysicalInMB:int:2707
+solver_se_tet/MaxResidentSizeInMB:int:95
+solver_se_tet/MaxResidentSizeMiB:int:99
+solver_se_tet/MinFreePhysicalInMB:int:2707
+tetmesh/InitialFreePhysicalInMB:int:2504
+tetmesh/MaxResidentSizeInMB:int:47
+tetmesh/MaxResidentSizeMiB:int:34
+tetmesh/MinFreePhysicalInMB:int:2443
+---

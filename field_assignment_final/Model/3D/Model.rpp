@@ -1,0 +1,60 @@
+11
+0
+0
+5
+curve1_D-Field (Es)
+Evaluate Field on Curve
+1
+1D
+2D and 3D Field Results
+P
+ED10
+Evaluate Field on Curve.rtp
+VBA
+1
+curve1_D-Field (Es)
+P(20,0,30)
+Evaluate Field in arbitrary Coordinates
+1
+0D
+2D and 3D Field Results
+P
+ED10
+Evaluate Field in arbitrary Coordinates.rtp
+VBA
+1
+P(20,0,30)
+p(0,0,35)
+Evaluate Field in arbitrary Coordinates
+1
+0D
+2D and 3D Field Results
+P
+ED10
+Evaluate Field in arbitrary Coordinates.rtp
+VBA
+1
+p(0,0,35)
+p(-70,0,40)
+Evaluate Field in arbitrary Coordinates
+1
+0D
+2D and 3D Field Results
+P
+ED10
+Evaluate Field in arbitrary Coordinates.rtp
+VBA
+1
+p(-70,0,40)
+curve1_Potential (Es)
+Evaluate Field on Curve
+1
+1D
+2D and 3D Field Results
+P
+ED10
+Evaluate Field on Curve.rtp
+VBA
+1
+curve1_Potential (Es)
+0

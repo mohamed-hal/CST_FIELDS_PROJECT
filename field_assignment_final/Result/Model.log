@@ -1,0 +1,87 @@
+2026-05-07 14:02:14   Electrostatic Solver
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:14   Units settings: 
+
+                        Dimensions: mm
+                        Frequency:  Hz
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:14   Boundary conditions: 
+
+                        YZsymmetry: magnetic
+                        XZsymmetry: magnetic
+                        XYsymmetry: none
+
+                        Xmin: open
+                        Xmax: open
+
+                        Ymin: open
+                        Ymax: open
+
+                        Zmin: open
+                        Zmax: open
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:15   Solver started at: 2026-05-07 14:02:15 +0300
+
+                        Module:  Electrostatic Solver (Win 64)
+                        Version: 2025.4 Release from 2025-04-11 (change 1409410)
+
+                        Hardware:
+                           Computer name: LAPTOP-SFEM1GRF
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:15   Solver order = 2
+
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:15   Detected 2 independent conductive sets.
+2026-05-07 14:02:15   Desired accuracy = 1.0e-062026-05-07 14:02:15   
+
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:15   Using mesh with curved elements order: 3
+
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:17   Solver Timing Statistics: (last run)
+
+                        Mesh generation:                  0d :  0h :  0m :  0s
+                        Assembling process:               0d :  0h :  0m :  0s
+                        Linear solver:                    0d :  0h :  0m :  1s
+                                                       --------------------------
+                        Total time:                       0d :  0h :  0m :  1s
+
+                        Number of threads used:           1024 
+
+
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:17   Solver Size Statistics:
+
+                        Number of mesh cells:         14066 
+                        Number of unknowns:           18079
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:17   Linear Solver Results: (last run)
+
+                        Accuracy:                     9.051911e-15
+                        Desired accuracy:             1.000000e-06
+                        Number of iterations:         1
+                        Maximum number of iterations: 10000
+
+
+                      ------------------------------------------------------------------------------
+2026-05-07 14:02:17   Memory statistics:
+
+                        ----------------------------------------------------------------------------
+                                            Peak memory used (kB)         Free physical memory (kB) 
+                                                                          At begin     Minimum      
+                        ----------------------------------------------------------------------------
+                        Solver start        15316                         2643084      2642724      
+                        Solver run total    92300                         2641644      2638820      
+                        ----------------------------------------------------------------------------
+
+
+                      ------------------------------------------------------------------------------

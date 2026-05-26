@@ -1,0 +1,23 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  Hz
+  Time:       s
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 2026-05-07 14:02:17
+
+  Evaluating 'curve1_D-Field (Es)': 2.9 s
+  Evaluating 'P(20,0,30)': 0.715 s
+  Evaluating 'p(0,0,35)': 0.179 s
+  Evaluating 'p(-70,0,40)': 0.175 s
+  Evaluating 'curve1_Potential (Es)': 0.443 s
+
+  Total time: 4 s  ( = 0 h, 0 m, 4 s )
+
+Template based post-processing finished at: 2026-05-07 14:02:22
+----------------------------------------------------------------------------------------
